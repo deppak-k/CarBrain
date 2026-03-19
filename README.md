@@ -2,7 +2,8 @@
 
 > Sharp, unbiased car buying advice powered by Groq + LLaMA 3.3 70B. Built for Delhi NCR buyers.
 
-**Live Demo:** [https://car-brain.vercel.app/](https://your-app.vercel.app)
+**Live Demo:** [https://car-brain.vercel.app/](https://car-brain.vercel.app/)
+
 **Stack:** React + Vite · Tailwind CSS · Groq API · Express · Vercel Serverless
 
 ---
